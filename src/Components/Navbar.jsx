@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav>
       <div>
-        <img src='./public/images/iOdonto.jpg' width={150} />
+        <img src='/images/iOdonto.jpg' width={150} />
       </div>
       <div className='navLinks'>
         <Link to='/'><h4>Home</h4></Link>
